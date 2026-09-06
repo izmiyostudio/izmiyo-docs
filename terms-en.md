@@ -1,11 +1,12 @@
-﻿# Ä°zmiyo Terms of Use
+# İzmiyo Terms of Use
+
 Effective date: September 6, 2026
 
-Use Ä°zmiyo products lawfully and respect the rights, safety and privacy of other people.
+Publisher: İzmiyo Studio
+Support: izmiyostudio@gmail.com
 
-Izmiyo Petition is not legal advice. Users must review documents before sending them. Izmiyo Live is limited to licensed streams and community rules; copyright infringement, harassment, hate speech and spam are prohibited.
+İzmiyo apps must be used lawfully and with respect for other people’s rights. Users are responsible for the accuracy of information they enter and for the security of their device.
 
-Izmiyo Tasks points are virtual motivation points, not cash, gambling or a financial return. Izmiyo Field uses location only with clear permission during an active job.
+Dilekçe Cepte is not legal advice; users must review documents before sending them. Görevdaş points are virtual motivation points, not cash, gambling or a financial return. Copyright infringement, harassment, hate speech and spam are prohibited in OrtakSes.
 
-Access may be restricted for abuse, security threats or legal requirements. Purchases and subscriptions follow the applicable store cancellation and refund rules.
-
+Access may be restricted for abuse, security threats or legal requirements. Purchases and subscriptions follow the applicable store rules.
