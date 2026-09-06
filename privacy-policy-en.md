@@ -1,25 +1,21 @@
-﻿# Ä°zmiyo Privacy Policy
+# İzmiyo Privacy Policy
+
 Effective date: September 6, 2026
 
-Publisher and data controller: Ä°zmiyo Studio
+Publisher and data controller: İzmiyo Studio
 Support and privacy contact: izmiyostudio@gmail.com
 
-Ä°zmiyo products include Izmiyo Parts, Izmiyo Tasks, Izmiyo Field, Izmiyo Petition and Izmiyo Live. This policy explains how product data is handled.
+İzmiyo products include Parça Defteri, Görevdaş, Saha Akış, Dilekçe Cepte and OrtakSes. This policy describes the current local-first release.
 
-## Data we process
-- Records and drafts entered by the user.
+## Data processed
+- Records and drafts entered in the apps.
 - Device preferences such as theme and language.
-- Location and report attachments only when the Field user grants access for an active job.
-- Camera, notification or file access only after explicit permission.
-- Store, advertising and purchase data when those services are enabled.
+- Local favorites, tasks, inventory, document, room and status records needed for app functionality.
 
-## Use and retention
-Data is used to provide features, preserve records, synchronize, prevent abuse and answer support requests. Local-first products keep data on the device. When synchronization is enabled, only required data is stored securely and deletion requests are honored after account closure.
+## Storage and sharing
+The current release has no accounts, cloud sync, backend, advertising, analytics or remote database. Data stays on the device, is not automatically sent to third parties by the apps, and is not sold.
 
-## Sharing
-Personal data is not sold. Required service providers receive only the data needed to operate their service. Live chat content may be processed for moderation; user location is never exposed.
+In Dilekçe Cepte, the user may choose an operating-system print or output flow. This is an explicit user action. OrtakSes never displays user location.
 
 ## Rights and contact
-For access, correction or deletion requests, contact: izmiyostudio@gmail.com
-Policy changes will be published on this page. If a permission is denied, core features continue where technically possible.
-
+For access, correction or deletion requests, contact izmiyostudio@gmail.com. Policy changes will be published on this page. If accounts, advertising, location or a real social server are added later, this policy and the store declarations will be updated.
