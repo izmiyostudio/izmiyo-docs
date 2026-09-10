@@ -1,12 +1,10 @@
-# İzmiyo Terms of Use
+# Terms of Use
 
-Effective date: September 6, 2026
+**Publisher:** İzmiyo Studio  
+**Contact:** izmiyostudio@gmail.com
 
-Publisher: İzmiyo Studio
-Support: izmiyostudio@gmail.com
+Use the apps only for lawful purposes. You are responsible for the accuracy of information you enter. Dilekçe Cepte is not legal advice and does not guarantee an official application outcome. Görevdaş points and rewards are virtual and have no cash value. On OrtakSes, harassment, spam, hate speech, location disclosure and copyright infringement are prohibited.
 
-İzmiyo apps must be used lawfully and with respect for other people’s rights. Users are responsible for the accuracy of information they enter and for the security of their device.
+Do not use the apps for reverse engineering, abuse, unauthorized access or obtaining other people’s data. Features may change or be temporarily disabled for security reasons. Mandatory consumer rights remain unaffected.
 
-Dilekçe Cepte is not legal advice; users must review documents before sending them. Görevdaş points are virtual motivation points, not cash, gambling or a financial return. Copyright infringement, harassment, hate speech and spam are prohibited in OrtakSes.
-
-Access may be restricted for abuse, security threats or legal requirements. Purchases and subscriptions follow the applicable store rules.
+Last updated: September 10, 2026
