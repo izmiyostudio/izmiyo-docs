@@ -1,21 +1,23 @@
-# İzmiyo Privacy Policy
+# Privacy Policy
 
-Effective date: September 6, 2026
+**Publisher:** İzmiyo Studio  
+**Contact:** izmiyostudio@gmail.com  
+**Last updated:** September 10, 2026
 
-Publisher and data controller: İzmiyo Studio
-Support and privacy contact: izmiyostudio@gmail.com
+## Scope
+This policy applies to the current local MVP versions of Parça Defteri, Görevdaş, Saha Akış, Dilekçe Cepte and OrtakSes.
 
-İzmiyo products include Parça Defteri, Görevdaş, Saha Akış, Dilekçe Cepte and OrtakSes. This policy describes the current local-first release.
+## Information collected
+Core records are stored on your device in this release. Account creation, advertising, analytics, live chat servers, location tracking and cloud sync are not enabled. Permissions are requested only when a related feature is used and are not required for basic use.
 
-## Data processed
-- Records and drafts entered in the apps.
-- Device preferences such as theme and language.
-- Local favorites, tasks, inventory, document, room and status records needed for app functionality.
+## Sensitive information
+Petition and field-work records may contain personal information. Keep them on your own device, review them before sharing and protect your device. The apps do not sell app data to third parties.
 
-## Storage and sharing
-The current release has no accounts, cloud sync, backend, advertising, analytics or remote database. Data stays on the device, is not automatically sent to third parties by the apps, and is not sold.
+## Retention and deletion
+Local records may remain until you delete them or uninstall the app. Export important documents before uninstalling.
 
-In Dilekçe Cepte, the user may choose an operating-system print or output flow. This is an explicit user action. OrtakSes never displays user location.
+## Children
+Görevdaş child profiles require parental supervision. Targeted advertising to children is not provided.
 
-## Rights and contact
-For access, correction or deletion requests, contact izmiyostudio@gmail.com. Policy changes will be published on this page. If accounts, advertising, location or a real social server are added later, this policy and the store declarations will be updated.
+## Changes and contact
+This policy will be updated before any server, advertising or account feature is enabled. For privacy requests, contact izmiyostudio@gmail.com.
