@@ -1,5 +1,8 @@
-# Dilekçe Cepte — Gizlilik Gerçekleri
+# Dilekçe Cepte — Veri Beyanı
 
-Yayıncı: İzmiyo Studio
+**Yayıncı:** İzmiyo Studio  
+**Destek:** izmiyostudio@gmail.com
 
-Bu release sürümünde hesap, backend, bulut senkronizasyonu, reklam ve analytics yoktur. Dilekçe alanları, kurum seçimi, taslak ve PDF üretim verisi yalnızca cihazda belge işlevi için tutulur. Otomatik yükleme yoktur; kullanıcı işletim sistemi çıktı akışını kendisi seçebilir. Mevcut sürüm kamera, konum, mikrofon ve kişi listesi izni istemez. Destek/KVKK: izmiyostudio@gmail.com.
+Belge taslakları ve oluşturduğunuz alanlar cihazda tutulur. Konum, kişiler, reklam, analiz, hesap ve bulut eşitleme kullanılmaz. PDF oluşturma işlemi cihaz üzerinde yapılır.
+
+Dilekçeler kişisel veya hassas bilgi içerebilir. Paylaşmadan önce alıcıyı ve belge içeriğini kontrol edin. Uygulama hukuki danışmanlık vermez.
