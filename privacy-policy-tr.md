@@ -1,21 +1,23 @@
-# İzmiyo Gizlilik Politikası
+# Gizlilik Politikası
 
-Yürürlük tarihi: 6 Eylül 2026
+**Yayıncı:** İzmiyo Studio  
+**İletişim:** izmiyostudio@gmail.com  
+**Son güncelleme:** 10 Eylül 2026
 
-Yayıncı ve veri sorumlusu: İzmiyo Studio
-Destek ve KVKK iletişim: izmiyostudio@gmail.com
+## Kapsam
+Bu politika Parça Defteri, Görevdaş, Saha Akış, Dilekçe Cepte ve OrtakSes uygulamalarının mevcut yerel MVP sürümleri için geçerlidir.
 
-İzmiyo uygulamaları; Parça Defteri, Görevdaş, Saha Akış, Dilekçe Cepte ve OrtakSes ürünlerinden oluşur. Bu politika, mevcut local-first sürümün veri işleme biçimini açıklar.
+## Toplanan bilgiler
+Bu sürümde temel kayıtlar cihazınızda tutulur. Hesap açma, reklam, analiz, canlı sohbet sunucusu, konum takibi ve bulut eşitleme etkin değildir. Uygulama izinleri yalnızca ilgili özellik kullanılınca istenir; temel kullanım için zorunlu değildir.
 
-## İşlenen veriler
-- Kullanıcının uygulamaya yazdığı kayıtlar ve taslaklar.
-- Tema ve dil tercihleri gibi cihaz ayarları.
-- Uygulama işlevleri için gereken yerel favori, görev, stok, belge, oda ve durum kayıtları.
+## Hassas bilgiler
+Dilekçe ve saha kayıtları kişisel bilgi içerebilir. Bu bilgileri yalnızca kendi cihazınızda saklayın, paylaşmadan önce kontrol edin ve cihaz güvenliğinizi koruyun. Uygulama verileri üçüncü taraflara satmaz.
 
-## Saklama ve paylaşım
-Mevcut sürümde hesap, bulut senkronizasyonu, backend, reklam, analytics veya uzaktan veritabanı yoktur. Veriler cihazda tutulur; uygulama tarafından üçüncü tarafa otomatik gönderilmez ve satılmaz.
+## Saklama ve silme
+Yerel kayıtlar siz silene veya uygulamayı kaldırana kadar cihazda kalabilir. Uygulamayı kaldırmadan önce gerekli belgeleri dışa aktarın.
 
-Dilekçe Cepte’de PDF/çıktı işlemini kullanıcı işletim sistemi akışıyla seçebilir. Bu paylaşım kullanıcının açık eylemidir. OrtakSes’te konum gösterilmez.
+## Çocuklar
+Görevdaş çocuk profilleri için ebeveyn sorumluluğu ve gözetimi gerekir. Çocuklara hedefli reklam sunulmaz.
 
-## Haklar ve iletişim
-Erişim, düzeltme veya silme talepleri için izmiyostudio@gmail.com adresine yazabilirsiniz. Politika değişiklikleri bu sayfada yayımlanır. Gelecekte hesap, reklam, konum veya gerçek sosyal sunucu eklenirse politika ve mağaza beyanları güncellenir.
+## Değişiklikler ve iletişim
+Yeni sunucu, reklam veya hesap özellikleri eklenirse bu politika güncellenir. KVKK talepleriniz için izmiyostudio@gmail.com adresine ulaşabilirsiniz.
