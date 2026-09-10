@@ -1,12 +1,10 @@
-# İzmiyo Kullanım Şartları
+# Kullanım Şartları
 
-Yürürlük tarihi: 6 Eylül 2026
+**Yayıncı:** İzmiyo Studio  
+**İletişim:** izmiyostudio@gmail.com
 
-Yayıncı: İzmiyo Studio
-Destek: izmiyostudio@gmail.com
+Uygulamaları yalnızca yasal amaçlarla kullanabilirsiniz. Girdiğiniz bilgilerin doğruluğundan siz sorumlusunuz. Dilekçe Cepte hukuki danışmanlık veya resmî başvuru garantisi vermez. Görevdaş puanları ve ödülleri sanaldır; nakit, yatırım veya ödeme vaadi içermez. OrtakSes için taciz, spam, nefret söylemi, kişisel konum paylaşımı ve telif hakkı ihlali yapılamaz.
 
-İzmiyo uygulamaları yasal amaçlarla ve başkalarının haklarına saygı gösterilerek kullanılmalıdır. Kullanıcı, uygulamaya girdiği bilgilerin doğruluğundan ve cihaz güvenliğinden sorumludur.
+Uygulamaları tersine mühendislik, kötüye kullanım, yetkisiz erişim veya başkalarının verilerini ele geçirme amacıyla kullanmayın. Özellikler güvenlik nedeniyle değiştirilebilir veya geçici olarak durdurulabilir. Zorunlu tüketici hakları saklıdır.
 
-Dilekçe Cepte hukuki danışmanlık değildir; belgeler gönderilmeden önce kullanıcı tarafından kontrol edilmelidir. Görevdaş puanları sanal motivasyon puanlarıdır; gerçek para, bahis veya finansal getiri değildir. OrtakSes’te telif ihlali, taciz, nefret söylemi ve spam yasaktır.
-
-Kötüye kullanım, güvenlik riski veya yasal zorunluluk hâlinde erişim kısıtlanabilir. Satın alma ve abonelikler ilgili mağazanın kurallarına tabidir.
+Son güncelleme: 10 Eylül 2026
