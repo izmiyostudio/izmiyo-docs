@@ -1,5 +1,8 @@
-# Görevdaş — Gizlilik Gerçekleri
+# Görevdaş — Veri Beyanı
 
-Yayıncı: İzmiyo Studio
+**Yayıncı:** İzmiyo Studio  
+**Destek:** izmiyostudio@gmail.com
 
-Bu release sürümünde hesap, backend, bulut senkronizasyonu, reklam ve analytics yoktur. Aile/çocuk modu, görev, ödül, puan ve tamamlanma durumu yalnızca cihazda görev ve ödül işlevi için tutulur. Uygulama tarafından üçüncü tarafa otomatik gönderim yoktur. Mevcut sürüm kamera, konum, mikrofon ve kişi listesi izni istemez. Destek/KVKK: izmiyostudio@gmail.com.
+Aile/çocuk modu, görev, sanal ödül, puan ve tamamlanma durumu cihazda tutulur. Hesap, bulut eşitleme, reklam, analiz, konum, kamera, mikrofon ve kişiler bu MVP sürümünde kullanılmaz. Çocuk profilleri ebeveyn gözetimi gerektirir.
+
+Veriler siz silene veya uygulamayı kaldırana kadar cihazda kalabilir. Yeni veri işleme özelliği eklenmeden önce mağaza beyanı güncellenecektir.
