@@ -1,5 +1,8 @@
-# Parça Defteri — Gizlilik Gerçekleri
+# Parça Defteri — Veri Beyanı
 
-Yayıncı: İzmiyo Studio
+**Yayıncı:** İzmiyo Studio  
+**Destek:** izmiyostudio@gmail.com
 
-Bu release sürümünde hesap, backend, bulut senkronizasyonu, reklam ve analytics yoktur. Parça adı, kategori, adet, raf/kutu, teknik not, favori ve stok durumu yalnızca cihazda; kayıt, arama ve stok özeti işlevleri için tutulur. Uygulama tarafından üçüncü tarafa otomatik gönderim yoktur. Mevcut sürüm kamera, konum, mikrofon ve kişi listesi izni istemez. Destek/KVKK: izmiyostudio@gmail.com.
+Parça, raf, adet ve not kayıtları cihazda tutulur. Hesap, bulut eşitleme, reklam, analiz, konum, kamera, mikrofon ve kişiler bu MVP sürümünde kullanılmaz. Veriler üçüncü taraflara otomatik gönderilmez.
+
+Veriler siz silene veya uygulamayı kaldırana kadar cihazda kalabilir. Yeni veri işleme özelliği eklenmeden önce mağaza beyanı güncellenecektir.
