@@ -1,5 +1,8 @@
-# OrtakSes — Gizlilik Gerçekleri
+# OrtakSes — Veri Beyanı
 
-Yayıncı: İzmiyo Studio
+**Yayıncı:** İzmiyo Studio  
+**Destek:** izmiyostudio@gmail.com
 
-Bu release sürümünde hesap, backend, bulut senkronizasyonu, reklam ve analytics yoktur. Yayın/oda seçimi, yerel tepki, sohbet demo durumu ve favoriler yalnızca cihazda işlevsellik için tutulur. Gerçek sosyal sunucuya otomatik gönderim yoktur; kullanıcı konumu gösterilmez. Mevcut sürüm konum, kamera, mikrofon ve kişi listesi izni istemez. Destek/KVKK: izmiyostudio@gmail.com.
+Yayın ve oda seçimi, yerel tepki, sohbet demo durumu ve favoriler cihazda tutulur. Gerçek sosyal sunucu, hesap, bulut eşitleme, reklam, analiz ve konum takibi bu MVP sürümünde etkin değildir. Canlı sohbet açılmadan önce moderasyon altyapısı tamamlanmalıdır.
+
+Veriler siz silene veya uygulamayı kaldırana kadar cihazda kalabilir.
